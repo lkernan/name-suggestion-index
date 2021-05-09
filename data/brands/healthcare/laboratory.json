@@ -10,6 +10,41 @@
   },
   "items": [
     {
+      "displayName": "Bioclinic",
+      "id": "bioclinic-c89743",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Bioclinic",
+        "brand:wikidata": "Q106768328",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Bioclinic"
+      }
+    },
+    {
+      "displayName": "Biofutur",
+      "id": "biofutur-067987",
+      "locationSet": {"include": ["lu"]},
+      "tags": {
+        "brand": "Biofutur",
+        "brand:wikidata": "Q106731038",
+        "healthcare": "laboratory",
+        "name": "Biofutur"
+      }
+    },
+    {
+      "displayName": "Biogroup",
+      "id": "biogroup-c89743",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Biogroup",
+        "brand:wikidata": "Q101559741",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Biogroup"
+      }
+    },
+    {
       "displayName": "BioneXt",
       "id": "bionext-067987",
       "locationSet": {"include": ["lu"]},
@@ -18,6 +53,30 @@
         "brand:wikidata": "Q99765528",
         "healthcare": "laboratory",
         "name": "BioneXt"
+      }
+    },
+    {
+      "displayName": "Biopath (Hauts de France)",
+      "id": "biopath-c89743",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Biopath",
+        "brand:wikidata": "Q106731141",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Biopath"
+      }
+    },
+    {
+      "displayName": "Biopath Unilabs (Île de France)",
+      "id": "biopathunilabs-c89743",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "brand": "Biopath Unilabs",
+        "brand:wikidata": "Q106767560",
+        "healthcare": "laboratory",
+        "healthcare:speciality": "biology",
+        "name": "Biopath Unilabs"
       }
     },
     {

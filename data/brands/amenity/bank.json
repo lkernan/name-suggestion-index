@@ -5611,7 +5611,7 @@
         "amenity": "bank",
         "brand": "Kaveri Grameena Bank",
         "brand:wikidata": "Q24936908",
-        "brand:wikipedia": "en:Kaveri Grameena Bank",
+        "brand:wikipedia": "en:Karnataka Gramin Bank",
         "name": "Kaveri Grameena Bank"
       }
     },
@@ -9284,6 +9284,22 @@
         "name:en": "Raiffeisen Bank Aval",
         "name:ru": "Райффайзен Банк Аваль",
         "name:uk": "Райффайзен Банк Аваль"
+      }
+    },
+    {
+      "displayName": "РГС Банк",
+      "id": "616b65-b7a026",
+      "locationSet": {"include": ["ru"]},
+      "matchNames": ["Rosgosstrakh Bank", "Росгосстрах банк"],
+      "tags": {
+        "amenity": "bank",
+        "brand": "РГС Банк",
+        "brand:en": "RGS Bank",
+        "brand:ru": "РГС Банк",
+        "brand:wikidata": "РГС Банк",
+        "name": "РГС Банк",
+        "name:en": "RGS Bank",
+        "name:ru": "РГС Банк"
       }
     },
     {

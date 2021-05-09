@@ -2388,7 +2388,7 @@
     },
     {
       "displayName": "Liberty",
-      "id": "liberty-734d12",
+      "id": "liberty-c5cf43",
       "locationSet": {"include": ["us"]},
       "tags": {
         "amenity": "fuel",
@@ -3589,6 +3589,16 @@
         "brand:wikidata": "Q3446514",
         "brand:wikipedia": "en:Rubis (company)",
         "name": "Rubis"
+      }
+    },
+    {
+      "displayName": "Ruedi Rüssel",
+      "id": "ruedirussel-b3d110",
+      "locationSet": {"include": ["ch"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Ruedi Rüssel",
+        "name": "Ruedi Rüssel"
       }
     },
     {

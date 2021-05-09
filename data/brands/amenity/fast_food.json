@@ -2435,6 +2435,18 @@
       }
     },
     {
+      "displayName": "Kebab King",
+      "id": "kebabking-658eea",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Kebab King",
+        "cuisine": "kebap",
+        "name": "Kebab King",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Kernels Popcorn",
       "id": "kernelspopcorn-e49d2e",
       "locationSet": {"include": ["ca"]},
@@ -3313,7 +3325,6 @@
         "amenity": "fast_food",
         "brand": "P. Terry's",
         "brand:wikidata": "Q19903521",
-        "brand:wikipedia": "en:P. Terry's",
         "cuisine": "burger",
         "name": "P. Terry's",
         "official_name": "P. Terry's Burger Stand",

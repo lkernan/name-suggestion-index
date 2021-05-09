@@ -651,6 +651,16 @@
       }
     },
     {
+      "displayName": "Tramway d'Île de France",
+      "id": "tramwaydiledefrance-2e09b9",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "network": "Tramway d'Île de France",
+        "network:wikidata": "Q1142114",
+        "route": "tram"
+      }
+    },
+    {
       "displayName": "Tranvía de Zaragoza",
       "id": "tranviadezaragoza-1ff616",
       "locationSet": {"include": ["es"]},

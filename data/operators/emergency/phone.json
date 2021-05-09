@@ -17,6 +17,16 @@
       }
     },
     {
+      "displayName": "AB Triangulo do Sol",
+      "id": "abtriangulodosol-d9e125",
+      "locationSet": {"include": ["br"]},
+      "tags": {
+        "emergency": "phone",
+        "operator": "AB Triangulo do Sol",
+        "operator:wikidata": "Q3539764"
+      }
+    },
+    {
       "displayName": "ARSSA",
       "id": "arssa-91d45d",
       "locationSet": {"include": ["ar"]},

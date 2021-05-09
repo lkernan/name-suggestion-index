@@ -1115,6 +1115,16 @@
       }
     },
     {
+      "displayName": "Portland Fire & Rescue",
+      "id": "portlandfireandrescue-f24dcc",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Portland Fire & Rescue",
+        "operator:wikidata": "Q25001404",
+      }
+    },
+    {
       "displayName": "Räddningstjänsten Storgöteborg",
       "id": "raddningstjanstenstorgoteborg-89a3f3",
       "locationSet": {"include": ["se"]},
@@ -1941,6 +1951,15 @@
       }
     },
     {
+      "displayName": "SDIS 78",
+      "id": "sdis78-f24dcc",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 78"
+      }
+    },
+    {
       "displayName": "SDIS 79",
       "id": "sdis79-b36844",
       "locationSet": {"include": ["fx"]},
@@ -1956,6 +1975,15 @@
       "tags": {
         "amenity": "fire_station",
         "operator": "SDIS 81"
+      }
+    },
+    {
+      "displayName": "SDIS 82",
+      "id": "sdis82-f24dcc",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDIS 82"
       }
     },
     {
@@ -2028,6 +2056,16 @@
       "tags": {
         "amenity": "fire_station",
         "operator": "SDIS 974"
+      }
+    },
+    {
+      "displayName": "SDMIS",
+      "id": "sdmis-f24dcc",
+      "locationSet": {"include": ["fx"]},
+      "matchNames": ["SDIS 69"],
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "SDMIS"
       }
     },
     {
@@ -2224,6 +2262,15 @@
       }
     },
     {
+      "displayName": "STIS 67",
+      "id": "stis67-f24dcc",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "STIS 67"
+      }
+    },
+    {
       "displayName": "Suffolk Fire and Rescue Service",
       "id": "suffolkfireandrescueservice-61f16b",
       "locationSet": {
@@ -2280,6 +2327,16 @@
       }
     },
     {
+      "displayName": "Tualatin Valley Fire and Rescue",
+      "id": "tualatinvalleyfireandrescue-f24dcc",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Tualatin Valley Fire and Rescue",
+        "operator:wikidata": "Q16902012"
+      }
+    },
+    {
       "displayName": "Tyne and Wear Fire and Rescue Service",
       "id": "tyneandwearfireandrescueservice-c946be",
       "locationSet": {
@@ -2310,6 +2367,16 @@
       "tags": {
         "amenity": "fire_station",
         "operator": "Vancouver Fire and Rescue Services"
+      }
+    },
+    {
+      "displayName": "Veiligheidsregio Groningen",
+      "id": "veiligheidsregiogroningen-f24dcc",
+      "locationSet": {"include": ["nl"]},
+      "tags": {
+        "amenity": "fire_station",
+        "operator": "Veiligheidsregio Groningen",
+        "operator:wikidata": "Q2749099"
       }
     },
     {

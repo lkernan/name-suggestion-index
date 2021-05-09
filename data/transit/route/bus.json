@@ -1986,7 +1986,7 @@
       "tags": {
         "network": "Cars Région Express",
         "network:wikidata": "Q14021675",
-        "network:wikipedia": "fr:Cars Région Express",
+        "network:wikipedia": "fr:Cars Région",
         "route": "bus"
       }
     },
@@ -2378,6 +2378,15 @@
         "network:wikidata": "Q2583564",
         "network:wikipedia": "de:Windhoek Bus Service",
         "operator": "Move Windhoek",
+        "route": "bus"
+      }
+    },
+    {
+      "displayName": "Citybus Brixen",
+      "id": "citybusbrixen-a45453",
+      "locationSet": {"include": ["it"]},
+      "tags": {
+        "network": "Citybus Brixen",
         "route": "bus"
       }
     },
@@ -3838,6 +3847,16 @@
       "tags": {"network": "FAST", "route": "bus"}
     },
     {
+      "displayName": "FAX",
+      "id": "fax-a45453",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "network": "FAX",
+        "network:wikidata": "Q5503159",
+        "route": "bus"
+      }
+    },
+    {
       "displayName": "FBT (Fédération El Bir pour le Transport)",
       "id": "fbtfederationelbirpourletransport-037b1d",
       "locationSet": {"include": ["mr"]},
@@ -4090,6 +4109,16 @@
         "network": "GBT",
         "network:wikidata": "Q5600471",
         "network:wikipedia": "en:Greater Bridgeport Transit Authority",
+        "route": "bus"
+      }
+    },
+    {
+      "displayName": "GDRTA",
+      "id": "gdrta-a45453",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "network": "GDRTA",
+        "network:wikidata": "Q5600523",
         "route": "bus"
       }
     },
@@ -13579,6 +13608,16 @@
         "network:short": "VMS",
         "network:wikidata": "Q1145755",
         "network:wikipedia": "de:Verkehrsverbund Mittelsachsen",
+        "route": "bus"
+      }
+    },
+    {
+      "displayName": "Verkehrsverbund Mittelschwaben",
+      "id": "verkehrsverbundmittelschwaben-a45453",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "network": "Verkehrsverbund Mittelschwaben",
+        "network:wikidata": "Q1758268",
         "route": "bus"
       }
     },

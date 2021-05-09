@@ -233,6 +233,16 @@
       }
     },
     {
+      "displayName": "Feuerwehr Hamburg",
+      "id": "feuerwehrhamburg-f76ab2",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "emergency": "ambulance_station",
+        "operator": "Feuerwehr Hamburg",
+        "operator:wikidata": "Q1409871"
+      }
+    },
+    {
       "displayName": "HSE National Ambulance Service",
       "id": "hsenationalambulanceservice-55b9ac",
       "locationSet": {"include": ["ie"]},

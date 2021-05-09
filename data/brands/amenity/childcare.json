@@ -82,6 +82,20 @@
       }
     },
     {
+      "displayName": "Бэби-клуб",
+      "id": "ef2a17-bc5258",
+      "locationSet": {"include": ["ru", "cz", "kz"]},
+      "tags": {
+        "amenity": "childcare",
+        "brand": "Бэби-клуб",
+        "brand:en": "Baby-Club",
+        "brand:ru": "Бэби-клуб",
+        "name": "Бэби-клуб",
+        "name:en": "Baby-Club",
+        "name:ru": "Бэби-клуб"
+      }
+    },
+    {
       "displayName": "グローバルキッズ",
       "id": "globalkids-46ae55",
       "locationSet": {"include": ["jp"]},
