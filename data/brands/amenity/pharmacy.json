@@ -111,6 +111,7 @@
         "amenity": "pharmacy",
         "brand": "Amavita",
         "brand:wikidata": "Q93733901",
+        "brand:wikipedia": "de:Amavita",
         "healthcare": "pharmacy",
         "name": "Amavita"
       }
@@ -1645,6 +1646,17 @@
       }
     },
     {
+      "displayName": "Pharmacie de l'Église",
+      "id": "pharmaciedeleglise-f5140f",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Pharmacie de l'Église",
+        "healthcare": "pharmacy",
+        "name": "Pharmacie de l'Église"
+      }
+    },
+    {
       "displayName": "Pharmacie du Château",
       "id": "pharmacieduchateau-f887ab",
       "locationSet": {"include": ["fx"]},
@@ -2411,6 +2423,17 @@
       }
     },
     {
+      "displayName": "Вита-Плюс",
+      "id": "338794-288c27",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Вита-Плюс",
+        "healthcare": "pharmacy",
+        "name": "Вита-Плюс"
+      }
+    },
+    {
       "displayName": "Горздрав",
       "id": "634cc7-288c27",
       "locationSet": {"include": ["ru"]},
@@ -2430,6 +2453,17 @@
         "brand": "Городская аптека",
         "healthcare": "pharmacy",
         "name": "Городская аптека"
+      }
+    },
+    {
+      "displayName": "Городская Здравница",
+      "id": "19f8c0-288c27",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Городская Здравница",
+        "healthcare": "pharmacy",
+        "name": "Городская Здравница"
       }
     },
     {
@@ -2521,6 +2555,17 @@
         "brand": "Имплозия",
         "healthcare": "pharmacy",
         "name": "Имплозия"
+      }
+    },
+    {
+      "displayName": "Калина фарм",
+      "id": "99fb25-288c27",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "pharmacy",
+        "brand": "Калина фарм",
+        "healthcare": "pharmacy",
+        "name": "Калина фарм"
       }
     },
     {
@@ -2635,7 +2680,7 @@
     },
     {
       "displayName": "Надежда-Фарм",
-      "id": "11996d-f5140f",
+      "id": "11996d-288c27",
       "locationSet": {"include": ["ru"]},
       "tags": {
         "amenity": "pharmacy",

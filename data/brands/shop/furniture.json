@@ -320,8 +320,8 @@
     },
     {
       "displayName": "Dänisches Bettenlager",
-      "id": "danischesbettenlager-bc2533",
-      "locationSet": {"include": ["at", "de"]},
+      "id": "danischesbettenlager-29dff1",
+      "locationSet": {"include": ["de"]},
       "tags": {
         "brand": "Dänisches Bettenlager",
         "brand:wikidata": "Q138913",
@@ -561,13 +561,28 @@
     },
     {
       "displayName": "JYSK",
-      "id": "jysk-12c613",
-      "locationSet": {"include": ["001"]},
+      "id": "jysk-646aed",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["de"]
+      },
+      "matchNames": ["dänisches bettenlager"],
       "tags": {
         "brand": "JYSK",
         "brand:wikidata": "Q138913",
         "brand:wikipedia": "en:Jysk",
         "name": "JYSK",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Kelebek",
+      "id": "kelebek-12c613",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Kelebek",
+        "brand:wikidata": "Q28729960",
+        "name": "Kelebek",
         "shop": "furniture"
       }
     },
@@ -746,6 +761,17 @@
       }
     },
     {
+      "displayName": "Mondi",
+      "id": "mondi-a88d0c",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Mondi",
+        "brand:wikidata": "Q106803578",
+        "name": "Mondi",
+        "shop": "furniture"
+      }
+    },
+    {
       "displayName": "Monsieur Meuble",
       "id": "monsieurmeuble-18f673",
       "locationSet": {"include": ["fr"]},
@@ -764,6 +790,7 @@
       "tags": {
         "brand": "Multipolster",
         "brand:wikidata": "Q99641150",
+        "brand:wikipedia": "de:Multipolster",
         "name": "Multipolster",
         "shop": "furniture"
       }
@@ -923,6 +950,22 @@
       }
     },
     {
+      "displayName": "Sconto Möbel Sofort",
+      "id": "scontomobelsofort-7ce246",
+      "locationSet": {
+        "include": ["cz", "de", "sk"]
+      },
+      "matchNames": ["sconto sb"],
+      "tags": {
+        "brand": "Sconto Möbel Sofort",
+        "brand:wikidata": "Q2260475",
+        "brand:wikipedia": "de:Sconto Möbel",
+        "name": "Sconto Möbel Sofort",
+        "shop": "furniture",
+        "short_name": "Sconto"
+      }
+    },
+    {
       "displayName": "ScS",
       "id": "scs-5a41a5",
       "locationSet": {"include": ["gb"]},
@@ -931,6 +974,17 @@
         "brand:wikidata": "Q19654399",
         "brand:wikipedia": "en:ScS",
         "name": "ScS",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "Seats and Sofas",
+      "id": "seatsandsofas-29dff1",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Seats and Sofas",
+        "brand:wikidata": "Q107113639",
+        "name": "Seats and Sofas",
         "shop": "furniture"
       }
     },
@@ -1058,6 +1112,16 @@
       "tags": {
         "brand": "Пинскдрев",
         "name": "Пинскдрев",
+        "shop": "furniture"
+      }
+    },
+    {
+      "displayName": "ТриЯ",
+      "id": "484c97-e999c2",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "brand": "ТриЯ",
+        "name": "ТриЯ",
         "shop": "furniture"
       }
     },

@@ -278,8 +278,10 @@
     },
     {
       "displayName": "MBTA",
-      "id": "mbta-a89e98",
-      "locationSet": {"include": ["us"]},
+      "id": "mbta-98eeec",
+      "locationSet": {
+        "include": [[-71, 42, 100]]
+      },
       "matchNames": [
         "massachusetts bay transportation authority"
       ],
@@ -652,11 +654,12 @@
     },
     {
       "displayName": "Tramway d'Île de France",
-      "id": "tramwaydiledefrance-2e09b9",
+      "id": "tramwaydiledefrance-3c4b3d",
       "locationSet": {"include": ["fx"]},
       "tags": {
         "network": "Tramway d'Île de France",
         "network:wikidata": "Q1142114",
+        "network:wikipedia": "fr:Tramway d'Île-de-France",
         "route": "tram"
       }
     },
@@ -1137,7 +1140,7 @@
         "network:wikipedia": "en:Hong Kong Tramways",
         "operator": "RATP Dev Transdev Asia",
         "operator:wikidata": "Q30642347",
-        "operator:wikipedia": "en:RATP Dev Transdev Asia",
+        "operator:wikipedia": "en:RATP Dev Asia",
         "route": "tram"
       }
     }

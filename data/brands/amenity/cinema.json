@@ -177,6 +177,19 @@
       }
     },
     {
+      "displayName": "Cinemaximum",
+      "id": "cinemaximum-690e75",
+      "locationSet": {"include": ["tr"]},
+      "matchNames": ["mars entertainment group"],
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cinemaximum",
+        "brand:wikidata": "Q24914175",
+        "brand:wikipedia": "en:Mars Entertainment Group",
+        "name": "Cinemaximum"
+      }
+    },
+    {
       "displayName": "Cinemaxx (Europe)",
       "id": "cinemaxx-49be64",
       "locationSet": {"include": ["de", "dk"]},
@@ -241,6 +254,17 @@
         "brand": "Cineplex",
         "brand:wikidata": "Q2972807",
         "brand:wikipedia": "en:Cineplex Entertainment",
+        "name": "Cineplex"
+      }
+    },
+    {
+      "displayName": "Cineplex (Deutschland)",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "cinema",
+        "brand": "Cineplex",
+        "brand:wikidata": "Q1092476",
+        "brand:wikipedia": "de:Cineplex",
         "name": "Cineplex"
       }
     },

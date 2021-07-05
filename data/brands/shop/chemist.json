@@ -87,7 +87,8 @@
         "brand:wikidata": "Q1001516",
         "brand:wikipedia": "de:Budnikowsky",
         "name": "Budnikowsky",
-        "shop": "chemist"
+        "shop": "chemist",
+        "short_name": "Budni"
       }
     },
     {
@@ -259,6 +260,7 @@
           "hu"
         ]
       },
+      "matchNames": ["drogeriemarkt müller"],
       "tags": {
         "brand": "Müller",
         "brand:wikidata": "Q1958759",
@@ -439,6 +441,16 @@
       "tags": {
         "brand": "Остров чистоты",
         "name": "Остров чистоты",
+        "shop": "chemist"
+      }
+    },
+    {
+      "displayName": "Остров чистоты и вкуса",
+      "id": "4de1ec-578118",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Остров чистоты и вкуса",
+        "name": "Остров чистоты и вкуса",
         "shop": "chemist"
       }
     },

@@ -25,7 +25,7 @@
   "items": [
     {
       "displayName": "“O’zbеkiston pochtasi” AJ",
-      "id": "84c74e-9811e4",
+      "id": "02283a-9811e4",
       "locationSet": {"include": ["uz"]},
       "tags": {
         "amenity": "post_office",
@@ -1010,6 +1010,17 @@
       }
     },
     {
+      "displayName": "postcon",
+      "id": "postcon-8c0db3",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "post_office",
+        "operator": "postcon",
+        "operator:wikidata": "Q2384619",
+        "operator:wikipedia": "de:Postcon"
+      }
+    },
+    {
       "displayName": "Poste Italiane",
       "id": "posteitaliane-b5464b",
       "locationSet": {"include": ["it"]},
@@ -1198,6 +1209,17 @@
         "operator": "DPD",
         "operator:wikidata": "Q541030",
         "operator:wikipedia": "en:DPDgroup"
+      }
+    },
+    {
+      "displayName": "Sürat Kargo",
+      "id": "suratkargo-56f07f",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "post_office",
+        "operator": "Sürat Kargo",
+        "operator:wikidata": "Q6051265",
+        "operator:wikipedia": "tr:Sürat Kargo"
       }
     },
     {
@@ -1484,10 +1506,8 @@
     },
     {
       "displayName": "Почта Крыма",
-      "id": "postofcrimea-beb663",
-      "locationSet": {
-        "include": ["crimea.geojson"]
-      },
+      "id": "postofcrimea-98f61a",
+      "locationSet": {"include": ["crimea"]},
       "tags": {
         "amenity": "post_office",
         "operator": "Почта Крыма",

@@ -206,6 +206,18 @@
       }
     },
     {
+      "displayName": "myToys",
+      "id": "mytoys-7f72cb",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "myToys",
+        "brand:wikidata": "Q1956320",
+        "brand:wikipedia": "de:MyToys.de",
+        "name": "myToys",
+        "shop": "toys"
+      }
+    },
+    {
       "displayName": "Oxybul",
       "id": "oxybul-7999e4",
       "locationSet": {"include": ["fr"]},
@@ -325,6 +337,17 @@
         "brand:wikidata": "Q24887651",
         "brand:wikipedia": "en:Toytown Stores",
         "name": "Toytown",
+        "shop": "toys"
+      }
+    },
+    {
+      "displayName": "Toyzz Shop",
+      "id": "toyzzshop-a17e1f",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Toyzz Shop",
+        "brand:wikidata": "Q28606323",
+        "name": "Toyzz Shop",
         "shop": "toys"
       }
     },

@@ -50,6 +50,17 @@
       }
     },
     {
+      "displayName": "Fränky Getränkemarkt",
+      "id": "frankygetrankemarkt-c4cb62",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Fränky Getränkemarkt",
+        "brand:wikidata": "Q107356988",
+        "name": "Fränky Getränkemarkt",
+        "shop": "beverages"
+      }
+    },
+    {
       "displayName": "Fristo",
       "id": "fristo-650acc",
       "locationSet": {"include": ["at", "de"]},
@@ -59,6 +70,17 @@
         "brand:wikidata": "Q1465151",
         "brand:wikipedia": "de:Fristo",
         "name": "Fristo",
+        "shop": "beverages"
+      }
+    },
+    {
+      "displayName": "Getränke Arena",
+      "id": "getrankearena-c4cb62",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Getränke Arena",
+        "brand:wikidata": "Q107116272",
+        "name": "Getränke Arena",
         "shop": "beverages"
       }
     },

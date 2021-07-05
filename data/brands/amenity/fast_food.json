@@ -711,7 +711,7 @@
         "amenity": "fast_food",
         "brand": "Chester's",
         "brand:wikidata": "Q5093401",
-        "brand:wikipedia": "en:Chester's International",
+        "brand:wikipedia": "en:Chester's",
         "cuisine": "chicken",
         "name": "Chester's",
         "takeaway": "yes"
@@ -1175,6 +1175,18 @@
       }
     },
     {
+      "displayName": "Dim Coffee",
+      "id": "dimcoffee-7582d1",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Dim Coffee",
+        "cuisine": "coffee_shop",
+        "name": "Dim Coffee",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Dixy Chicken",
       "id": "dixychicken-d5291b",
       "locationSet": {
@@ -1472,6 +1484,30 @@
         "brand:wikidata": "Q62273299",
         "cuisine": "burger",
         "name": "Everest",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Exki",
+      "id": "exki-a3472e",
+      "locationSet": {
+        "include": [
+          "be",
+          "es",
+          "fr",
+          "it",
+          "lu",
+          "nl"
+        ]
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Exki",
+        "brand:wikidata": "Q251760",
+        "brand:wikipedia": "fr:Exki",
+        "cuisine": "healthy;sandwich;salad;pie",
+        "diet:vegetarian": "yes",
+        "name": "Exki",
         "takeaway": "yes"
       }
     },
@@ -2436,7 +2472,7 @@
     },
     {
       "displayName": "Kebab King",
-      "id": "kebabking-658eea",
+      "id": "kebabking-3eab78",
       "locationSet": {"include": ["pl"]},
       "tags": {
         "amenity": "fast_food",
@@ -4084,6 +4120,17 @@
       }
     },
     {
+      "displayName": "Runza",
+      "id": "runza-658eea",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Runza",
+        "name": "Runza",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Saladworks",
       "id": "saladworks-4d2ff4",
       "locationSet": {"include": ["us"]},
@@ -5208,6 +5255,27 @@
       }
     },
     {
+      "displayName": "Winchell's Donut House",
+      "id": "winchellsdonuthouse-d02b6a",
+      "locationSet": {
+        "include": ["gu", "mp", "sa", "us"]
+      },
+      "matchNames": [
+        "winchells donuts",
+        "winchells doughnut house",
+        "winchells doughnuts"
+      ],
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Winchell's Donut House",
+        "brand:wikidata": "Q8023756",
+        "brand:wikipedia": "en:Winchell's Donuts",
+        "cuisine": "donut",
+        "name": "Winchell's Donut House",
+        "takeaway": "yes"
+      }
+    },
+    {
       "displayName": "Wingstop",
       "id": "wingstop-bca76b",
       "locationSet": {"include": ["mx", "us"]},
@@ -5295,6 +5363,21 @@
         "name": "Yoshinoya",
         "name:en": "Yoshinoya",
         "name:ja": "吉野家",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Yum Yum Donuts",
+      "id": "yumyumdonuts-4d2ff4",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["yum yum doughnuts"],
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Yum Yum Donuts",
+        "brand:wikidata": "Q8061011",
+        "brand:wikipedia": "en:Yum-Yum Donuts",
+        "cuisine": "donut",
+        "name": "Yum Yum Donuts",
         "takeaway": "yes"
       }
     },
@@ -5432,6 +5515,22 @@
         "name": "Домино'c",
         "name:en": "Domino's",
         "name:ru": "Домино'c",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "Евро Кебаб",
+      "id": "5a2311-7582d1",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "Евро Кебаб",
+        "brand:en": "Еuro Кеbаb",
+        "brand:ru": "Евро Кебаб",
+        "cuisine": "kebab",
+        "name": "Евро Кебаб",
+        "name:en": "Еuro Кеbаb",
+        "name:ru": "Евро Кебаб",
         "takeaway": "yes"
       }
     },
@@ -7064,6 +7163,22 @@
         "name": "赛百味",
         "name:en": "Subway",
         "name:zh": "赛百味",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "displayName": "达美乐比萨",
+      "id": "dominos-65b4e8",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "amenity": "fast_food",
+        "brand": "达美乐比萨",
+        "brand:en": "Domino's",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "cuisine": "pizza",
+        "name": "达美乐比萨",
+        "name:en": "Domino's",
         "takeaway": "yes"
       }
     },

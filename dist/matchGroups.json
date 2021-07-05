@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "5.0.20210506",
-    "generated": "2021-05-06T13:57:44.282Z",
+    "version": "6.0.20210624",
+    "generated": "2021-06-24T19:45:41.012Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/matchGroups.json",
-    "hash": "a601c2dae4c56ad7effd1d4a1dc720c7"
+    "hash": "4bcf662af0454b674474a07a352c4704"
   },
   "matchGroups": {
     "adult_gaming_centre": [
@@ -21,7 +21,9 @@
     ],
     "beverages": [
       "shop/alcohol",
-      "shop/beverages"
+      "shop/beer",
+      "shop/beverages",
+      "shop/wine"
     ],
     "camping": [
       "leisure/park",
@@ -50,6 +52,7 @@
       "shop/chemist",
       "shop/convenience",
       "shop/cosmetics",
+      "shop/grocery",
       "shop/newsagent"
     ],
     "coworking": [

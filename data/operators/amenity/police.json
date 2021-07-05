@@ -373,7 +373,7 @@
     },
     {
       "displayName": "Dyfed–Powys Police",
-      "id": "e51994-03a321",
+      "id": "dyfedpowyspolice-03a321",
       "locationSet": {"include": ["gb-wls"]},
       "tags": {
         "amenity": "police",
@@ -522,6 +522,15 @@
       }
     },
     {
+      "displayName": "Guardia Nacional",
+      "id": "guardianacional-793396",
+      "locationSet": {"include": ["mx"]},
+      "tags": {
+        "amenity": "police",
+        "operator": "Guardia Nacional"
+      }
+    },
+    {
       "displayName": "Guardia Nacional Bolivariana de Venezuela",
       "id": "guardianacionalbolivarianadevenezuela-3383b4",
       "locationSet": {"include": ["ve"]},
@@ -651,6 +660,15 @@
         "operator": "Jammu and Kashmir Police",
         "operator:wikidata": "Q6148022",
         "operator:wikipedia": "en:Jammu and Kashmir Police"
+      }
+    },
+    {
+      "displayName": "Kantonspolizei Bern",
+      "id": "kantonspolizeibern-d00fc1",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "police",
+        "operator": "Kantonspolizei Bern"
       }
     },
     {
@@ -1101,8 +1119,10 @@
     },
     {
       "displayName": "New York Police Department",
-      "id": "newyorkpolicedepartment-04d52e",
-      "locationSet": {"include": ["us"]},
+      "id": "newyorkpolicedepartment-a48e36",
+      "locationSet": {
+        "include": ["new_york_city.geojson"]
+      },
       "matchNames": [
         "new york city police department"
       ],
@@ -1377,6 +1397,17 @@
       "tags": {
         "amenity": "police",
         "operator": "Policía de Río Negro"
+      }
+    },
+    {
+      "displayName": "Policía de Santiago del Estero",
+      "id": "policiadesantiagodelestero-e73d55",
+      "locationSet": {"include": ["ar"]},
+      "tags": {
+        "amenity": "police",
+        "operator": "Policía de Santiago del Estero",
+        "operator:wikidata": "Q9061412",
+        "operator:wikipedia": "es:Policía de Santiago del Estero"
       }
     },
     {

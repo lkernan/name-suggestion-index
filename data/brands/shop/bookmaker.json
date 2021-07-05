@@ -110,11 +110,21 @@
     },
     {
       "displayName": "Superbet",
-      "id": "superbet-176a37",
+      "id": "superbet-75c28e",
       "locationSet": {"include": ["ro"]},
       "tags": {
         "brand": "Superbet",
         "name": "Superbet",
+        "shop": "bookmaker"
+      }
+    },
+    {
+      "displayName": "TAB",
+      "id": "tab-176a37",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "TAB",
+        "name": "TAB",
         "shop": "bookmaker"
       }
     },

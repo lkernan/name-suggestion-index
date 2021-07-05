@@ -340,6 +340,18 @@
       }
     },
     {
+      "displayName": "Alternatif Bank",
+      "id": "alternatifbank-a30806",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Alternatif Bank",
+        "brand:wikidata": "Q4736403",
+        "brand:wikipedia": "en:Alternatif Bank",
+        "name": "Alternatif Bank"
+      }
+    },
+    {
       "displayName": "AmBank",
       "id": "ambank-8ab35f",
       "locationSet": {"include": ["my"]},
@@ -401,6 +413,18 @@
         "brand:wikipedia": "en:AMP Limited",
         "name": "AMP",
         "official_name": "AMP Limited"
+      }
+    },
+    {
+      "displayName": "Anadolubank",
+      "id": "anadolubank-a30806",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Anadolubank",
+        "brand:wikidata": "Q4750773",
+        "brand:wikipedia": "en:Anadolubank",
+        "name": "Anadolubank"
       }
     },
     {
@@ -3994,6 +4018,16 @@
       }
     },
     {
+      "displayName": "Credito Artigiano",
+      "id": "creditoartigiano-b7a026",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Credito Artigiano",
+        "name": "Credito Artigiano"
+      }
+    },
+    {
       "displayName": "Credito Valtellinese",
       "id": "creditovaltellinese-7b36b5",
       "locationSet": {"include": ["it"]},
@@ -4137,6 +4171,16 @@
         "brand:wikidata": "Q2040440",
         "brand:wikipedia": "en:Dhanlaxmi Bank",
         "name": "Dhanlaxmi Bank"
+      }
+    },
+    {
+      "displayName": "Diamond Bank",
+      "id": "diamondbank-b7a026",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Diamond Bank",
+        "name": "Diamond Bank"
       }
     },
     {
@@ -4413,6 +4457,18 @@
       }
     },
     {
+      "displayName": "Fibabanka",
+      "id": "fibabanka-a30806",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Fibabanka",
+        "brand:wikidata": "Q5446343",
+        "brand:wikipedia": "en:Fibabanka",
+        "name": "Fibabanka"
+      }
+    },
+    {
       "displayName": "Fibank",
       "id": "fibank-126296",
       "locationSet": {"include": ["bg"]},
@@ -4511,6 +4567,16 @@
         "brand:wikidata": "Q1416237",
         "brand:wikipedia": "en:QNB Finansbank",
         "name": "Finansbank"
+      }
+    },
+    {
+      "displayName": "Fintro",
+      "id": "fintro-b7a026",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Fintro",
+        "name": "Fintro"
       }
     },
     {
@@ -4766,7 +4832,7 @@
         "amenity": "bank",
         "brand": "First State Bank",
         "brand:wikidata": "Q5453817",
-        "brand:wikipedia": "en:1st State Bank - 1st.BANK",
+        "brand:wikipedia": "en:First State Bank (Nebraska)",
         "name": "First State Bank"
       }
     },
@@ -4890,21 +4956,13 @@
       }
     },
     {
-      "displayName": "Garanti",
-      "id": "garanti-a30806",
-      "locationSet": {"include": ["tr"]},
-      "tags": {
-        "amenity": "bank",
-        "brand": "Garanti",
-        "brand:wikidata": "Q322962",
-        "brand:wikipedia": "en:Garanti BBVA",
-        "name": "Garanti"
-      }
-    },
-    {
-      "displayName": "Garanti Bankası",
-      "id": "garantibankasi-b7a026",
-      "locationSet": {"include": ["001"]},
+      "displayName": "Garanti BBVA",
+      "id": "garantibankasi-df101c",
+      "locationSet": {
+        "include": ["001"],
+        "exclude": ["cn"]
+      },
+      "matchNames": ["garanti"],
       "tags": {
         "amenity": "bank",
         "brand": "Garanti Bankası",
@@ -5416,21 +5474,10 @@
       }
     },
     {
-      "displayName": "İş Bankası",
-      "id": "isbankasi-a30806",
-      "locationSet": {"include": ["tr"]},
-      "tags": {
-        "amenity": "bank",
-        "brand": "İş Bankası",
-        "brand:wikidata": "Q909613",
-        "brand:wikipedia": "en:İşbank",
-        "name": "İş Bankası"
-      }
-    },
-    {
       "displayName": "İşbank",
       "id": "isbank-b4c574",
       "locationSet": {"include": ["de", "nl"]},
+      "matchNames": ["isbank atm"],
       "tags": {
         "amenity": "bank",
         "brand": "İşbank",
@@ -6415,6 +6462,18 @@
       }
     },
     {
+      "displayName": "Odeabank",
+      "id": "odeabank-a30806",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Odeabank",
+        "brand:wikidata": "Q6036742",
+        "brand:wikipedia": "tr:Odeabank",
+        "name": "Odeabank"
+      }
+    },
+    {
       "displayName": "Old National Bank",
       "id": "oldnationalbank-ea2e2d",
       "locationSet": {"include": ["us"]},
@@ -7140,6 +7199,16 @@
       }
     },
     {
+      "displayName": "Robinsons Bank",
+      "id": "robinsonsbank-431f82",
+      "locationSet": {"include": ["ph"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Robinsons Bank",
+        "name": "Robinsons Bank"
+      }
+    },
+    {
       "displayName": "S-Pankki",
       "id": "spankki-22526e",
       "locationSet": {"include": ["fi"]},
@@ -7861,6 +7930,7 @@
       "displayName": "TEB",
       "id": "teb-a30806",
       "locationSet": {"include": ["tr"]},
+      "matchNames": ["türk ekonomi bankası"],
       "tags": {
         "amenity": "bank",
         "brand": "TEB",
@@ -7927,6 +7997,11 @@
       "displayName": "Türkiye İş Bankası",
       "id": "turkiyeisbankasi-a30806",
       "locationSet": {"include": ["tr"]},
+      "matchNames": [
+        "isbank",
+        "isbankasi",
+        "isbankasiatm"
+      ],
       "tags": {
         "amenity": "bank",
         "brand": "Türkiye İş Bankası",
@@ -8294,6 +8369,18 @@
       }
     },
     {
+      "displayName": "Vakıf Katılım",
+      "id": "vakifkatilim-a30806",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Vakıf Katılım",
+        "brand:wikidata": "Q31188912",
+        "brand:wikipedia": "tr:Vakıf Katılım Bankası",
+        "name": "Vakıf Katılım"
+      }
+    },
+    {
       "displayName": "Vakıfbank",
       "id": "vakifbank-a30806",
       "locationSet": {"include": ["tr"]},
@@ -8606,6 +8693,18 @@
         "brand:wikidata": "Q696003",
         "brand:wikipedia": "en:Ziraat Bank",
         "name": "Ziraat Bankası"
+      }
+    },
+    {
+      "displayName": "Ziraat Katılım",
+      "id": "ziraatkatilim-a30806",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "Ziraat Katılım",
+        "brand:wikidata": "Q20476458",
+        "brand:wikipedia": "en:Ziraat Katılım",
+        "name": "Ziraat Katılım"
       }
     },
     {
@@ -9279,7 +9378,7 @@
         "brand:ru": "Райффайзен Банк Аваль",
         "brand:uk": "Райффайзен Банк Аваль",
         "brand:wikidata": "Q4389243",
-        "brand:wikipedia": "en:Raiffeisen Bank Aval",
+        "brand:wikipedia": "en:Raiffeisen Bank (Ukraine)",
         "name": "Райффайзен Банк Аваль",
         "name:en": "Raiffeisen Bank Aval",
         "name:ru": "Райффайзен Банк Аваль",
@@ -9288,15 +9387,19 @@
     },
     {
       "displayName": "РГС Банк",
-      "id": "616b65-b7a026",
+      "id": "rgsbank-0eb427",
       "locationSet": {"include": ["ru"]},
-      "matchNames": ["Rosgosstrakh Bank", "Росгосстрах банк"],
+      "matchNames": [
+        "rosgosstrakh bank",
+        "росгосстрах банк"
+      ],
       "tags": {
         "amenity": "bank",
         "brand": "РГС Банк",
         "brand:en": "RGS Bank",
         "brand:ru": "РГС Банк",
-        "brand:wikidata": "РГС Банк",
+        "brand:wikidata": "Q4397742",
+        "brand:wikipedia": "ru:Росгосстрах банк",
         "name": "РГС Банк",
         "name:en": "RGS Bank",
         "name:ru": "РГС Банк"
@@ -10155,6 +10258,16 @@
       }
     },
     {
+      "displayName": "بانک گردشگری",
+      "id": "e8042c-b7a026",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "بانک گردشگری",
+        "name": "بانک گردشگری"
+      }
+    },
+    {
       "displayName": "بانک مسکن",
       "id": "bankmaskan-cdfa72",
       "locationSet": {"include": ["ir"]},
@@ -10346,6 +10459,22 @@
         "brand:wikidata": "Q1761176",
         "brand:wikipedia": "ar:مصرف الراجحي",
         "name": "مصرف الراجحي"
+      }
+    },
+    {
+      "displayName": "مصرف الزيتونة",
+      "id": "2e6f93-367f6f",
+      "locationSet": {"include": ["tn"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "مصرف الزيتونة",
+        "brand:ar": "مصرف الزيتونة",
+        "brand:fr": "Banque Zitouna",
+        "brand:wikidata": "Q2882969",
+        "brand:wikipedia": "ar:مصرف الزيتونة",
+        "name": "مصرف الزيتونة",
+        "name:ar": "مصرف الزيتونة",
+        "name:fr": "Banque Zitouna"
       }
     },
     {
@@ -11485,6 +11614,22 @@
         "name:nan-POJ": "Tāi-chiòng Siong-gia̍p Gîn-hâng",
         "name:nan-TL": "Tāi-tsiòng Siong-gia̍p Gîn-hâng",
         "name:zh": "大眾商業銀行"
+      }
+    },
+    {
+      "displayName": "天津银行",
+      "id": "bankoftianjin-da74c0",
+      "locationSet": {"include": ["cn"]},
+      "tags": {
+        "amenity": "bank",
+        "brand": "天津银行",
+        "brand:en": "Bank of Tianjin",
+        "brand:wikidata": "Q10940359",
+        "brand:wikipedia": "en:Bank of Tianjin",
+        "brand:zh": "天津银行",
+        "name": "天津银行",
+        "name:en": "Bank of Tianjin",
+        "name:zh": "天津银行"
       }
     },
     {

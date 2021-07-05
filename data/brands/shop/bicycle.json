@@ -5,6 +5,17 @@
   },
   "items": [
     {
+      "displayName": "B.O.C.",
+      "id": "boc-b51da6",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "B.O.C.",
+        "brand:wikidata": "Q107103852",
+        "name": "B.O.C.",
+        "shop": "bicycle"
+      }
+    },
+    {
       "displayName": "Cycle Republic",
       "id": "cyclerepublic-3697a8",
       "locationSet": {"include": ["gb"]},

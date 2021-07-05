@@ -517,6 +517,18 @@
       }
     },
     {
+      "displayName": "Koçtaş",
+      "id": "koctas-9ebfe5",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Koçtaş",
+        "brand:wikidata": "Q6057541",
+        "brand:wikipedia": "tr:Koçtaş",
+        "name": "Koçtaş",
+        "shop": "doityourself"
+      }
+    },
+    {
       "displayName": "Lagerhaus (Österreich)",
       "id": "lagerhaus-5a91e1",
       "locationSet": {"include": ["at"]},
@@ -617,12 +629,23 @@
     },
     {
       "displayName": "MR.DIY",
-      "id": "mrdiy-62f371",
-      "locationSet": {"include": ["my"]},
+      "id": "mrdiy-85e32f",
+      "locationSet": {
+        "include": [
+          "bn",
+          "id",
+          "in",
+          "kn",
+          "my",
+          "ph",
+          "sg",
+          "th"
+        ]
+      },
       "tags": {
         "brand": "MR.DIY",
-        "brand:wikidata": "Q95676208",
-        "brand:wikipedia": "ms:MR.DIY",
+        "brand:wikidata": "Q105044323",
+        "brand:wikipedia": "en:MR.DIY",
         "name": "MR.DIY",
         "shop": "doityourself"
       }
@@ -677,9 +700,9 @@
     },
     {
       "displayName": "Praktiker",
-      "id": "praktiker-27405b",
+      "id": "praktiker-573a37",
       "locationSet": {
-        "include": ["bg", "gr", "hu", "ro"]
+        "include": ["bg", "gr", "hu", "ro", "tr"]
       },
       "tags": {
         "brand": "Praktiker",
@@ -721,6 +744,17 @@
         "brand:wikidata": "Q11786409",
         "brand:wikipedia": "pl:PSB-Mrówka",
         "name": "PSB Mrówka",
+        "shop": "doityourself"
+      }
+    },
+    {
+      "displayName": "Raiffeisen-Markt",
+      "locationSet": {"include": ["de"]},
+      "matchTags": ["shop/garden_centre","shop/agrarian"],
+      "tags": {
+        "brand": "Raiffeisen-Markt",
+        "brand:wikidata": "Q107415020",
+        "name": "Raiffeisen-Markt",
         "shop": "doityourself"
       }
     },

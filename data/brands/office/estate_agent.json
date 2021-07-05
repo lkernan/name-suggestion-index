@@ -102,7 +102,6 @@
       "tags": {
         "brand": "Bourse de l'Immobilier",
         "brand:wikidata": "Q102352527",
-        "brand:wikipedia": "fr:Bourse de l'Immobilier",
         "name": "Bourse de l'Immobilier",
         "office": "estate_agent"
       }
@@ -202,6 +201,16 @@
         "brand:wikidata": "Q1341765",
         "brand:wikipedia": "en:Engel & Völkers",
         "name": "Engel & Völkers",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Falc Immobilien",
+      "id": "falcimmobilien-2b2e07",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Falc Immobilien",
+        "name": "Falc Immobilien",
         "office": "estate_agent"
       }
     },
@@ -454,6 +463,16 @@
       }
     },
     {
+      "displayName": "McMakler",
+      "id": "mcmakler-2b2e07",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "McMakler",
+        "name": "McMakler",
+        "office": "estate_agent"
+      }
+    },
+    {
       "displayName": "Nelson Alexander",
       "id": "nelsonalexander-d66f4e",
       "locationSet": {"include": ["au"]},
@@ -574,6 +593,18 @@
         "brand": "Stags",
         "brand:wikidata": "Q91028631",
         "name": "Stags",
+        "office": "estate_agent"
+      }
+    },
+    {
+      "displayName": "Stéphane Plaza Immobilier",
+      "id": "stephaneplazaimmobilier-b7bc37",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "brand": "Stéphane Plaza Immobilier",
+        "brand:wikidata": "Q97368097",
+        "brand:wikipedia": "fr:Stéphane Plaza Immobilier",
+        "name": "Stéphane Plaza Immobilier",
         "office": "estate_agent"
       }
     },

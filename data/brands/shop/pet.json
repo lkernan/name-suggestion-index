@@ -47,6 +47,7 @@
       "displayName": "Das Futterhaus",
       "id": "dasfutterhaus-f5d6d7",
       "locationSet": {"include": ["at", "de"]},
+      "matchNames": ["futterhaus"],
       "tags": {
         "brand": "Das Futterhaus",
         "brand:wikidata": "Q1167914",

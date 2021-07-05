@@ -1703,6 +1703,16 @@
       }
     },
     {
+      "displayName": "Gasenergy",
+      "id": "gasenergy-6daebb",
+      "locationSet": {"include": ["kz"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Gasenergy",
+        "name": "Gasenergy"
+      }
+    },
+    {
       "displayName": "Gazel",
       "id": "gazel-419915",
       "locationSet": {
@@ -1955,6 +1965,18 @@
       }
     },
     {
+      "displayName": "High's",
+      "id": "highs-c5cf43",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "High's",
+        "brand:wikidata": "Q5754383",
+        "brand:wikipedia": "en:High's Dairy Store",
+        "name": "High's"
+      }
+    },
+    {
       "displayName": "Hofer",
       "id": "hofer-3baa0f",
       "locationSet": {"include": ["at", "si"]},
@@ -2013,7 +2035,7 @@
         "amenity": "fuel",
         "brand": "Huck's Food & Fuel",
         "brand:wikidata": "Q56276328",
-        "brand:wikipedia": "en:Huck's Food & Fuel",
+        "brand:wikipedia": "en:Huck's Market",
         "name": "Huck's Food & Fuel",
         "short_name": "Huck's"
       }
@@ -2218,6 +2240,16 @@
         "brand": "Jetti",
         "brand:wikidata": "Q62288720",
         "name": "Jetti"
+      }
+    },
+    {
+      "displayName": "Jurki",
+      "id": "jurki-11d3b6",
+      "locationSet": {"include": ["sk"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Jurki",
+        "name": "Jurki"
       }
     },
     {
@@ -2696,8 +2728,10 @@
     },
     {
       "displayName": "MRS",
-      "id": "mrs-7ae8e2",
-      "locationSet": {"include": ["ng"]},
+      "id": "mrs-0edd09",
+      "locationSet": {
+        "include": ["bj", "cm", "gh", "ng", "tg"]
+      },
       "tags": {
         "amenity": "fuel",
         "brand": "MRS",
@@ -3593,7 +3627,7 @@
     },
     {
       "displayName": "Ruedi Rüssel",
-      "id": "ruedirussel-b3d110",
+      "id": "ruedirussel-27a80f",
       "locationSet": {"include": ["ch"]},
       "tags": {
         "amenity": "fuel",
@@ -3705,6 +3739,16 @@
         "brand:wikidata": "Q7389549",
         "brand:wikipedia": "en:Seaoil Philippines",
         "name": "Sea Oil"
+      }
+    },
+    {
+      "displayName": "Shamrock",
+      "id": "shamrock-b3d110",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "Shamrock",
+        "name": "Shamrock"
       }
     },
     {
@@ -4301,7 +4345,7 @@
         "amenity": "fuel",
         "brand": "Total",
         "brand:wikidata": "Q154037",
-        "brand:wikipedia": "fr:Total (entreprise)",
+        "brand:wikipedia": "fr:TotalEnergies",
         "name": "Total"
       }
     },
@@ -4313,7 +4357,7 @@
         "amenity": "fuel",
         "brand": "Total Access",
         "brand:wikidata": "Q154037",
-        "brand:wikipedia": "fr:Total (entreprise)",
+        "brand:wikipedia": "fr:TotalEnergies",
         "name": "Total Access"
       }
     },
@@ -4646,9 +4690,9 @@
       "locationSet": {"include": ["au"]},
       "tags": {
         "amenity": "fuel",
-        "brand": "Caltex",
+        "brand": "Ampol",
         "brand:wikidata": "Q5023980",
-        "brand:wikipedia": "en:Euro Garages Australia",
+        "brand:wikipedia": "en:EG Australia",
         "name": "Woolworths Petrol"
       }
     },
@@ -4931,6 +4975,16 @@
         "brand:wikidata": "Q62544323",
         "name": "Нефтьмагистраль",
         "name:en": "Neftmagistral"
+      }
+    },
+    {
+      "displayName": "НИС Петрол",
+      "id": "717c1c-b3d110",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "fuel",
+        "brand": "НИС Петрол",
+        "name": "НИС Петрол"
       }
     },
     {
@@ -5336,7 +5390,7 @@
         "brand:ar": "توتال",
         "brand:en": "Total",
         "brand:wikidata": "Q154037",
-        "brand:wikipedia": "fr:Total (entreprise)",
+        "brand:wikipedia": "fr:TotalEnergies",
         "name": "توتال",
         "name:ar": "توتال",
         "name:en": "Total"

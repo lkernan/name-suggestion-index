@@ -195,40 +195,78 @@
       }
     },
     {
-      "displayName": "Aldi",
-      "id": "aldi-883bfe",
+      "displayName": "ALDI (ALDI Nord group)",
+      "id": "aldi-b5be76",
       "locationSet": {
-        "include": ["150", "au", "us"]
+        "include": [
+          "be",
+          "dk",
+          "es",
+          "fr",
+          "lu",
+          "nl",
+          "pl",
+          "pt"
+        ],
+        "exclude": ["de"]
       },
+      "note": "countries in which ALDI Nord group is active",
       "tags": {
-        "brand": "Aldi",
-        "brand:wikidata": "Q125054",
-        "brand:wikipedia": "en:Aldi",
-        "name": "Aldi",
-        "shop": "supermarket"
-      }
-    },
-    {
-      "displayName": "Aldi Nord",
-      "id": "aldinord-0a839e",
-      "locationSet": {"include": ["de"]},
-      "tags": {
-        "brand": "Aldi Nord",
+        "brand": "ALDI",
         "brand:wikidata": "Q41171373",
         "brand:wikipedia": "en:Aldi",
-        "name": "Aldi Nord",
+        "name": "ALDI",
         "shop": "supermarket"
       }
     },
     {
-      "displayName": "Aldi Süd",
-      "id": "aldisud-0a839e",
-      "locationSet": {"include": ["de"]},
+      "displayName": "ALDI (ALDI Süd group)",
+      "id": "aldi-0d26d7",
+      "locationSet": {
+        "include": [
+          "au",
+          "ch",
+          "cn",
+          "gb",
+          "hu",
+          "ie",
+          "it",
+          "us"
+        ],
+        "exclude": ["de"]
+      },
+      "note": "countries in which ALDI Süd group is active",
       "tags": {
-        "brand": "Aldi Süd",
+        "brand": "ALDI",
         "brand:wikidata": "Q41171672",
         "brand:wikipedia": "en:Aldi",
-        "name": "Aldi Süd",
+        "name": "ALDI",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "ALDI Nord",
+      "id": "aldinord-0a839e",
+      "locationSet": {"include": ["de"]},
+      "note": "German ALDI Nord branding",
+      "tags": {
+        "brand": "ALDI Nord",
+        "brand:wikidata": "Q41171373",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI Nord",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "ALDI Süd",
+      "id": "aldisud-0a839e",
+      "locationSet": {"include": ["de"]},
+      "note": "German ALDI Süd branding",
+      "tags": {
+        "brand": "ALDI Süd",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "name": "ALDI Süd",
         "shop": "supermarket"
       }
     },
@@ -1712,6 +1750,18 @@
       }
     },
     {
+      "displayName": "Drakes.",
+      "id": "drakes-c254c9",
+      "locationSet": {"include": ["au"]},
+      "tags": {
+        "brand": "Drakes.",
+        "brand:wikidata": "Q48988077",
+        "brand:wikipedia": "en:Drakes Supermarkets",
+        "name": "Drakes.",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "Dunnes Stores",
       "id": "dunnesstores-b7087f",
       "locationSet": {"include": ["gb", "ie"]},
@@ -1779,7 +1829,7 @@
       }
     },
     {
-      "displayName": "Edeka",
+      "displayName": "EDEKA",
       "id": "edeka-0a839e",
       "locationSet": {"include": ["de"]},
       "matchNames": [
@@ -1787,22 +1837,34 @@
         "edeka neukauf"
       ],
       "tags": {
-        "brand": "Edeka",
+        "brand": "EDEKA",
         "brand:wikidata": "Q701755",
         "brand:wikipedia": "de:Edeka",
-        "name": "Edeka",
+        "name": "EDEKA",
         "shop": "supermarket"
       }
     },
     {
-      "displayName": "Edeka xpress",
+      "displayName": "EDEKA aktiv markt",
+      "id": "edekaaktivmarkt-0a839e",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "EDEKA",
+        "brand:wikidata": "Q701755",
+        "brand:wikipedia": "de:Edeka",
+        "name": "EDEKA aktiv markt",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "EDEKA xpress",
       "id": "edekaxpress-0a839e",
       "locationSet": {"include": ["de"]},
       "tags": {
-        "brand": "Edeka",
+        "brand": "EDEKA",
         "brand:wikidata": "Q701755",
         "brand:wikipedia": "de:Edeka",
-        "name": "Edeka xpress",
+        "name": "EDEKA xpress",
         "shop": "supermarket"
       }
     },
@@ -1850,6 +1912,19 @@
         "brand:wikidata": "Q47017915",
         "brand:wikipedia": "nl:Ekoplaza",
         "name": "Ekoplaza",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Elli",
+      "id": "elli-0a839e",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["elli-markt"],
+      "tags": {
+        "brand": "Elli",
+        "brand:wikidata": "Q701755",
+        "brand:wikipedia": "de:Edeka",
+        "name": "Elli",
         "shop": "supermarket"
       }
     },
@@ -2521,7 +2596,7 @@
       "tags": {
         "brand": "HalpaHalli",
         "brand:wikidata": "Q11861256",
-        "brand:wikipedia": "fi:HalpaHalli",
+        "brand:wikipedia": "fi:Halpa-Halli",
         "name": "HalpaHalli",
         "shop": "supermarket"
       }
@@ -3442,6 +3517,19 @@
         "brand:wikidata": "Q326715",
         "brand:wikipedia": "en:Lotte Mart",
         "name": "Lotte Mart",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Lotus's",
+      "id": "lotuss-a5f134",
+      "locationSet": {"include": ["my", "th"]},
+      "tags": {
+        "alt_name": "Tesco Lotus",
+        "brand": "Lotus's",
+        "brand:wikidata": "Q2378901",
+        "brand:wikipedia": "en:Lotus's",
+        "name": "Lotus's",
         "shop": "supermarket"
       }
     },
@@ -4378,6 +4466,19 @@
       }
     },
     {
+      "displayName": "NSK Trade City",
+      "id": "nsktradecity-80e9ee",
+      "locationSet": {"include": ["my"]},
+      "matchNames": ["nsk"],
+      "tags": {
+        "brand": "NSK Trade City",
+        "brand:wikidata": "Q106978506",
+        "brand:wikipedia": "ms:NSK Trade City",
+        "name": "NSK Trade City",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "NTUC Fairprice",
       "id": "ntucfairprice-07d9e1",
       "locationSet": {"include": ["sg"]},
@@ -4899,10 +5000,10 @@
       "id": "rewe-0a839e",
       "locationSet": {"include": ["de"]},
       "tags": {
-        "brand": "Rewe",
+        "brand": "REWE",
         "brand:wikidata": "Q16968817",
-        "brand:wikipedia": "en:REWE",
-        "name": "Rewe",
+        "brand:wikipedia": "de:Rewe (Markt)",
+        "name": "REWE",
         "shop": "supermarket"
       }
     },
@@ -4911,10 +5012,10 @@
       "id": "rewecity-0a839e",
       "locationSet": {"include": ["de"]},
       "tags": {
-        "brand": "Rewe City",
+        "brand": "REWE City",
         "brand:wikidata": "Q16968817",
-        "brand:wikipedia": "en:REWE",
-        "name": "Rewe City",
+        "brand:wikipedia": "de:Rewe (Markt)",
+        "name": "REWE City",
         "shop": "supermarket"
       }
     },
@@ -5001,6 +5102,19 @@
         "brand:wikidata": "Q7419620",
         "brand:wikipedia": "es:Santa Isabel (supermercado)",
         "name": "Santa Isabel",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "Save Mart",
+      "id": "savemart-dde59d",
+      "locationSet": {"include": ["us"]},
+      "matchNames": ["save mart supermarkets"],
+      "tags": {
+        "brand": "Save Mart",
+        "brand:wikidata": "Q7428009",
+        "brand:wikipedia": "en:Save Mart Supermarkets",
+        "name": "Save Mart",
         "shop": "supermarket"
       }
     },
@@ -5470,6 +5584,19 @@
       }
     },
     {
+      "displayName": "SuperBioMarkt",
+      "id": "superbiomarkt-0a839e",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "SuperBioMarkt",
+        "brand:wikidata": "Q2367009",
+        "brand:wikipedia": "de:SuperBioMarkt",
+        "name": "SuperBioMarkt",
+        "organic": "only",
+        "shop": "supermarket"
+      }
+    },
+    {
       "displayName": "SuperBrugsen",
       "id": "superbrugsen-072052",
       "locationSet": {"include": ["dk"]},
@@ -5615,18 +5742,6 @@
       }
     },
     {
-      "displayName": "Tesco Lotus",
-      "id": "tescolotus-fd4d8d",
-      "locationSet": {"include": ["th"]},
-      "tags": {
-        "brand": "Tesco Lotus",
-        "brand:wikidata": "Q2378901",
-        "brand:wikipedia": "th:โลตัส (ห้างสรรพสินค้า)",
-        "name": "Tesco Lotus",
-        "shop": "supermarket"
-      }
-    },
-    {
       "displayName": "Tesco Metro",
       "id": "tescometro-b7087f",
       "locationSet": {"include": ["gb", "ie"]},
@@ -5644,6 +5759,7 @@
       "tags": {
         "brand": "TF Value-Mart",
         "brand:wikidata": "Q96679744",
+        "brand:wikipedia": "ms:TF Value-Mart",
         "name": "TF Value-Mart",
         "shop": "supermarket"
       }
@@ -5692,18 +5808,6 @@
         "brand:wikidata": "Q96679754",
         "brand:wikipedia": "ms:The Store",
         "name": "The Store",
-        "shop": "supermarket"
-      }
-    },
-    {
-      "displayName": "Thomas Philipps Sonderposten",
-      "id": "thomasphilippssonderposten-0a839e",
-      "locationSet": {"include": ["de"]},
-      "tags": {
-        "brand": "Thomas Philipps Sonderposten",
-        "brand:wikidata": "Q1424735",
-        "brand:wikipedia": "de:Thomas Philipps",
-        "name": "Thomas Philipps Sonderposten",
         "shop": "supermarket"
       }
     },
@@ -5779,11 +5883,12 @@
     },
     {
       "displayName": "Topaz",
-      "id": "topaz-986a24",
+      "id": "topaz-9e6a6c",
       "locationSet": {"include": ["pl"]},
       "tags": {
         "brand": "Topaz",
         "brand:wikidata": "Q11837058",
+        "brand:wikipedia": "pl:Topaz (sieć handlowa)",
         "name": "Topaz",
         "shop": "supermarket"
       }
@@ -7274,7 +7379,7 @@
     },
     {
       "displayName": "سوپر",
-      "id": "3b0e76-986a24",
+      "id": "3b0e76-c29ef9",
       "locationSet": {"include": ["ir"]},
       "tags": {
         "brand": "سوپر",
@@ -8082,6 +8187,22 @@
       "tags": {
         "brand": "万代",
         "name": "万代",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "displayName": "中百佳乐家",
+      "id": "jialejia-eda947",
+      "locationSet": {"include": ["cn"]},
+      "matchNames": ["中百佳乐家超市", "佳乐家", "佳乐家超市"],
+      "tags": {
+        "brand": "中百佳乐家",
+        "brand:en": "JiaLeJia",
+        "brand:zh": "中百佳乐家",
+        "name": "中百佳乐家",
+        "name:en": "JiaLeJia",
+        "name:zh": "中百佳乐家",
+        "operator": "山东潍坊百货集团",
         "shop": "supermarket"
       }
     },

@@ -30,7 +30,7 @@
         "brand": "361度",
         "brand:en": "361˚",
         "brand:wikidata": "Q10846067",
-        "brand:wikipedia": "en:361°",
+        "brand:wikipedia": "en:361 Degrees",
         "brand:zh": "361度",
         "name": "361度",
         "name:en": "361˚",
@@ -317,6 +317,19 @@
         "brand:wikipedia": "en:Ann Inc.",
         "clothes": "women",
         "name": "Ann Taylor",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Anson's",
+      "id": "ansons-74806d",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Anson's",
+        "brand:wikidata": "Q570037",
+        "brand:wikipedia": "de:Anson’s Herrenhaus",
+        "clothes": "men",
+        "name": "Anson's",
         "shop": "clothes"
       }
     },
@@ -811,6 +824,18 @@
       }
     },
     {
+      "displayName": "Boyner",
+      "id": "boyner-86c702",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Boyner",
+        "brand:wikidata": "Q4952569",
+        "brand:wikipedia": "en:Boyner",
+        "name": "Boyner",
+        "shop": "clothes"
+      }
+    },
+    {
       "displayName": "Brice",
       "id": "brice-6db462",
       "locationSet": {"include": ["be", "fr"]},
@@ -854,6 +879,19 @@
         "brand:wikidata": "Q3645582",
         "brand:wikipedia": "en:Brunello Cucinelli (company)",
         "name": "Brunello Cucinelli",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "bruno banani",
+      "id": "brunobanani-74806d",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "bruno banani",
+        "brand:wikidata": "Q896166",
+        "brand:wikipedia": "de:Bruno Banani",
+        "clothes": "underwear",
+        "name": "bruno banani",
         "shop": "clothes"
       }
     },
@@ -1166,6 +1204,7 @@
       },
       "tags": {
         "brand": "Cecil",
+        "brand:wikidata": "Q101246192",
         "name": "Cecil",
         "shop": "clothes"
       }
@@ -1260,7 +1299,7 @@
       "tags": {
         "brand": "Chico's",
         "brand:wikidata": "Q5096393",
-        "brand:wikipedia": "en:Chico's (clothing retailer)",
+        "brand:wikipedia": "en:Chico's FAS",
         "name": "Chico's",
         "shop": "clothes"
       }
@@ -1637,6 +1676,20 @@
       }
     },
     {
+      "displayName": "das macht SiNN",
+      "id": "dasmachtsinn-74806d",
+      "locationSet": {"include": ["de"]},
+      "matchNames": ["sinnleffers"],
+      "tags": {
+        "brand": "das macht SiNN",
+        "brand:wikidata": "Q1291650",
+        "brand:wikipedia": "de:Sinn (Unternehmen)",
+        "name": "das macht SiNN",
+        "shop": "clothes",
+        "short_name": "SiNN"
+      }
+    },
+    {
       "displayName": "David's Bridal",
       "id": "davidsbridal-0615dc",
       "locationSet": {"include": ["ca", "us"]},
@@ -1665,6 +1718,30 @@
       }
     },
     {
+      "displayName": "DeFacto",
+      "id": "defacto-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "DeFacto",
+        "brand:wikidata": "Q6059861",
+        "brand:wikipedia": "tr:Defacto (şirket)",
+        "name": "DeFacto",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Derimod",
+      "id": "derimod-25fd8f",
+      "locationSet": {"include": ["tr", "us"]},
+      "tags": {
+        "brand": "Derimod",
+        "brand:wikidata": "Q17373410",
+        "brand:wikipedia": "en:Derimod",
+        "name": "Derimod",
+        "shop": "clothes"
+      }
+    },
+    {
       "displayName": "Des Petits Hauts",
       "id": "despetitshauts-4a3e29",
       "locationSet": {"include": ["fr"]},
@@ -1673,6 +1750,18 @@
         "brand:wikidata": "Q104197445",
         "clothes": "women",
         "name": "Des Petits Hauts",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Desa",
+      "id": "desa-529415",
+      "locationSet": {"include": ["tr", "uk"]},
+      "tags": {
+        "brand": "Desa",
+        "brand:wikidata": "Q17513880",
+        "brand:wikipedia": "en:Desa (company)",
+        "name": "Desa",
         "shop": "clothes"
       }
     },
@@ -2099,6 +2188,18 @@
         "brand:wikipedia": "en:Etam Développement",
         "clothes": "lingerie",
         "name": "Etam",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Eterna",
+      "id": "eterna-96f120",
+      "locationSet": {"include": ["at", "de"]},
+      "tags": {
+        "brand": "Eterna",
+        "brand:wikidata": "Q1371030",
+        "brand:wikipedia": "de:Eterna Mode",
+        "name": "Eterna",
         "shop": "clothes"
       }
     },
@@ -3262,6 +3363,18 @@
       }
     },
     {
+      "displayName": "Kiğılı",
+      "id": "kigili-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Kiğılı",
+        "brand:wikidata": "Q6041719",
+        "brand:wikipedia": "tr:Kiğılı",
+        "name": "Kiğılı",
+        "shop": "clothes"
+      }
+    },
+    {
       "displayName": "KiK",
       "id": "kik-97626d",
       "locationSet": {
@@ -3345,6 +3458,17 @@
         "brand:wikidata": "Q104889858",
         "clothes": "women;men;children",
         "name": "Kujten",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Kult",
+      "id": "kult-74806d",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "Kult",
+        "brand:wikidata": "Q107083144",
+        "name": "Kult",
         "shop": "clothes"
       }
     },
@@ -3953,6 +4077,19 @@
       }
     },
     {
+      "displayName": "Mavi",
+      "id": "mavi-3937bd",
+      "locationSet": {"include": ["001"]},
+      "matchNames": ["mavi jeans"],
+      "tags": {
+        "brand": "Mavi",
+        "brand:wikidata": "Q1911924",
+        "brand:wikipedia": "en:Mavi Jeans",
+        "name": "Mavi",
+        "shop": "clothes"
+      }
+    },
+    {
       "displayName": "Max et Moi",
       "id": "maxetmoi-ee2a1a",
       "locationSet": {
@@ -4112,7 +4249,7 @@
       "tags": {
         "brand": "Mise au Green",
         "brand:wikidata": "Q3316239",
-        "brand:wikipedia": "fr:Mise au green",
+        "brand:wikipedia": "fr:MISE AU GREEN",
         "name": "Mise au Green",
         "shop": "clothes"
       }
@@ -4161,6 +4298,18 @@
         "brand:wikidata": "Q51882883",
         "brand:wikipedia": "pt:MO (lojas)",
         "name": "MO",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Modepark Röther",
+      "id": "modeparkrother-96f120",
+      "locationSet": {"include": ["at", "de"]},
+      "tags": {
+        "brand": "Modepark Röther",
+        "brand:wikidata": "Q19296579",
+        "brand:wikipedia": "de:Modepark Röther",
+        "name": "Modepark Röther",
         "shop": "clothes"
       }
     },
@@ -4320,14 +4469,16 @@
       }
     },
     {
-      "displayName": "Naf Naf",
-      "id": "nafnaf-5bd015",
-      "locationSet": {"include": ["ch", "fr"]},
+      "displayName": "NAF NAF",
+      "id": "nafnaf-1da113",
+      "locationSet": {
+        "include": ["ch", "de", "fr"]
+      },
       "tags": {
-        "brand": "Naf Naf",
+        "brand": "NAF NAF",
         "brand:wikidata": "Q3334188",
         "brand:wikipedia": "fr:Naf Naf",
-        "name": "Naf Naf",
+        "name": "NAF NAF",
         "shop": "clothes"
       }
     },
@@ -4493,6 +4644,18 @@
       }
     },
     {
+      "displayName": "O'Neill",
+      "id": "oneill-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "O'Neill",
+        "brand:wikidata": "Q2043372",
+        "brand:wikipedia": "en:O'Neill (brand)",
+        "name": "O'Neill",
+        "shop": "clothes"
+      }
+    },
+    {
       "displayName": "Oasis",
       "id": "oasis-cefcc8",
       "locationSet": {
@@ -4507,11 +4670,12 @@
     },
     {
       "displayName": "Okaïdi",
-      "id": "okaidi-c44afb",
+      "id": "okaidi-eea264",
       "locationSet": {
         "include": [
           "be",
           "ch",
+          "de",
           "es",
           "fr",
           "it",
@@ -4703,7 +4867,7 @@
       "tags": {
         "brand": "Palmers",
         "brand:wikidata": "Q1509985",
-        "brand:wikipedia": "de:Palmers",
+        "brand:wikipedia": "de:Palmers (Unternehmen)",
         "name": "Palmers",
         "shop": "clothes"
       }
@@ -4744,6 +4908,19 @@
         "brand:wikipedia": "en:Penningtons",
         "clothes": "women",
         "name": "Penningtons",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Penti",
+      "id": "penti-3937bd",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "brand": "Penti",
+        "brand:wikidata": "Q28729986",
+        "brand:wikipedia": "tr:Penti",
+        "clothes": "underwear;women",
+        "name": "Penti",
         "shop": "clothes"
       }
     },
@@ -5351,6 +5528,18 @@
         "brand:wikidata": "Q3472022",
         "brand:wikipedia": "fr:Sandro (mode)",
         "name": "Sandro",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Sarar",
+      "id": "sarar-86c702",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "brand": "Sarar",
+        "brand:wikidata": "Q143174",
+        "brand:wikipedia": "tr:Sarar",
+        "name": "Sarar",
         "shop": "clothes"
       }
     },
@@ -6291,6 +6480,17 @@
       }
     },
     {
+      "displayName": "Veritas",
+      "id": "veritas-4b0b1d",
+      "locationSet": {"include": ["be", "lu"]},
+      "tags": {
+        "brand": "Veritas",
+        "brand:wikidata": "Q56239194",
+        "brand:wikipedia": "nl:Veritas (winkel)",
+        "shop": "clothes"
+      }
+    },
+    {
       "displayName": "Vero Moda",
       "id": "veromoda-3937bd",
       "locationSet": {"include": ["001"]},
@@ -6842,6 +7042,22 @@
       "tags": {
         "brand": "Московская ярмарка",
         "name": "Московская ярмарка",
+        "shop": "clothes"
+      }
+    },
+    {
+      "displayName": "Свiтанак",
+      "id": "svitanak-e4d922",
+      "locationSet": {"include": ["by"]},
+      "tags": {
+        "brand": "Свiтанак",
+        "brand:by": "Свiтанак",
+        "brand:en": "Svitanak",
+        "brand:wikidata": "Q65124308",
+        "brand:wikipedia": "ru:Свитанак",
+        "name": "Свiтанак",
+        "name:by": "Свiтанак",
+        "name:en": "Svitanak",
         "shop": "clothes"
       }
     },

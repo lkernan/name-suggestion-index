@@ -136,7 +136,7 @@
     },
     {
       "displayName": "AutoEnterprise",
-      "id": "autoenterprise-c22d3a",
+      "id": "autoenterprise-a6c3f2",
       "locationSet": {"include": ["ua"]},
       "tags": {
         "amenity": "charging_station",
@@ -357,6 +357,17 @@
       }
     },
     {
+      "displayName": "BP Pulse",
+      "id": "bppulse-0793ce",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "BP Pulse",
+        "operator:wikidata": "Q39057719",
+        "operator:wikipedia": "en:BP Pulse"
+      }
+    },
+    {
       "displayName": "Brighton and Hove City Council",
       "id": "brightonandhovecitycouncil-a4110c",
       "locationSet": {
@@ -368,6 +379,15 @@
         "operator": "Brighton and Hove City Council",
         "operator:wikidata": "Q16953725",
         "operator:wikipedia": "en:Brighton and Hove City Council"
+      }
+    },
+    {
+      "displayName": "CaCharge",
+      "id": "cacharge-c9e89f",
+      "locationSet": {"include": ["se"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "CaCharge"
       }
     },
     {
@@ -431,6 +451,15 @@
         "operator": "Chargemaster",
         "operator:wikidata": "Q39057719",
         "operator:wikipedia": "en:BP Pulse"
+      }
+    },
+    {
+      "displayName": "ChargeNet",
+      "id": "chargenet-c22d3a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "ChargeNet"
       }
     },
     {
@@ -640,6 +669,15 @@
       }
     },
     {
+      "displayName": "E-Plug",
+      "id": "eplug-c22d3a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "E-Plug"
+      }
+    },
+    {
       "displayName": "e-regio GmbH & Co. KG",
       "id": "eregiogmbhandcokg-1299a8",
       "locationSet": {"include": ["de"]},
@@ -701,12 +739,13 @@
     },
     {
       "displayName": "EAM",
-      "id": "eam-c22d3a",
+      "id": "eam-1299a8",
       "locationSet": {"include": ["de"]},
       "tags": {
         "amenity": "charging_station",
+        "operator": "EAM",
         "operator:wikidata": "Q17486810",
-        "operator": "EAM"
+        "operator:wikipedia": "de:EAM (Energieversorger)"
       }
     },
     {
@@ -800,6 +839,15 @@
         "operator": "Effia",
         "operator:wikidata": "Q3045894",
         "operator:wikipedia": "fr:EFFIA"
+      }
+    },
+    {
+      "displayName": "EGG Energieversorgung Gera",
+      "id": "eggenergieversorgunggera-c22d3a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "EGG Energieversorgung Gera"
       }
     },
     {
@@ -953,6 +1001,17 @@
       }
     },
     {
+      "displayName": "Energa",
+      "id": "energa-392011",
+      "locationSet": {"include": ["pl"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Energa",
+        "operator:wikidata": "Q9253957",
+        "operator:wikipedia": "pl:Energa"
+      }
+    },
+    {
       "displayName": "Energie AG",
       "id": "energieag-3f60da",
       "locationSet": {"include": ["at"]},
@@ -961,6 +1020,15 @@
         "operator": "Energie AG",
         "operator:wikidata": "Q1231542",
         "operator:wikipedia": "de:Energie AG Oberösterreich"
+      }
+    },
+    {
+      "displayName": "Energie Calw GmbH",
+      "id": "energiecalwgmbh-1299a8",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Energie Calw GmbH"
       }
     },
     {
@@ -1336,6 +1404,15 @@
       }
     },
     {
+      "displayName": "GO+EAuto",
+      "id": "goeauto-c22d3a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "GO+EAuto"
+      }
+    },
+    {
       "displayName": "Gogoro 電池交換站",
       "id": "62c656-c22d3a",
       "locationSet": {"include": ["001"]},
@@ -1422,6 +1499,15 @@
       "tags": {
         "amenity": "charging_station",
         "operator": "IBIL"
+      }
+    },
+    {
+      "displayName": "Ignitis",
+      "id": "ignitis-c22d3a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Ignitis"
       }
     },
     {
@@ -1675,12 +1761,13 @@
     },
     {
       "displayName": "Leclerc",
-      "id": "leclerc-c22d3a",
+      "id": "leclerc-170e94",
       "locationSet": {"include": ["fx"]},
       "tags": {
         "amenity": "charging_station",
         "operator": "Leclerc",
-        "operator:wikidata": "Q1273376"
+        "operator:wikidata": "Q1273376",
+        "operator:wikipedia": "fr:E.Leclerc"
       }
     },
     {
@@ -1703,6 +1790,17 @@
         "operator": "Linz AG",
         "operator:wikidata": "Q1827148",
         "operator:wikipedia": "de:Linz AG"
+      }
+    },
+    {
+      "displayName": "Maingau Energie",
+      "id": "maingauenergie-1299a8",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Maingau Energie",
+        "operator:wikidata": "Q28811800",
+        "operator:wikipedia": "de:Maingau Energie"
       }
     },
     {
@@ -2169,6 +2267,15 @@
       }
     },
     {
+      "displayName": "Repsol",
+      "id": "repsol-c22d3a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Repsol"
+      }
+    },
+    {
       "displayName": "Rewag",
       "id": "rewag-1299a8",
       "locationSet": {"include": ["de"]},
@@ -2241,6 +2348,15 @@
       }
     },
     {
+      "displayName": "SachsenEnergie AG",
+      "id": "sachsenenergieag-1299a8",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "SachsenEnergie AG"
+      }
+    },
+    {
       "displayName": "Saint-Louis",
       "id": "saintlouis-f6553b",
       "locationSet": {"include": ["fr"]},
@@ -2306,6 +2422,15 @@
       }
     },
     {
+      "displayName": "SDEM50",
+      "id": "sdem50-170e94",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "SDEM50"
+      }
+    },
+    {
       "displayName": "SDEY",
       "id": "sdey-170e94",
       "locationSet": {"include": ["fx"]},
@@ -2354,7 +2479,7 @@
     },
     {
       "displayName": "SEYMABORNE",
-      "id": "seymaborne-c22d3a",
+      "id": "seymaborne-170e94",
       "locationSet": {"include": ["fx"]},
       "tags": {
         "amenity": "charging_station",
@@ -2382,6 +2507,15 @@
       }
     },
     {
+      "displayName": "SIEEEN",
+      "id": "sieeen-170e94",
+      "locationSet": {"include": ["fx"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "SIEEEN"
+      }
+    },
+    {
       "displayName": "SIEGE 27",
       "id": "siege27-f6553b",
       "locationSet": {"include": ["fr"]},
@@ -2397,6 +2531,15 @@
       "tags": {
         "amenity": "charging_station",
         "operator": "SIEL42"
+      }
+    },
+    {
+      "displayName": "SIEML",
+      "id": "sieml-c22d3a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "SIEML"
       }
     },
     {
@@ -2553,6 +2696,15 @@
       "tags": {
         "amenity": "charging_station",
         "operator": "Stadtwerke Heide"
+      }
+    },
+    {
+      "displayName": "Stadtwerke Herne",
+      "id": "stadtwerkeherne-c22d3a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "Stadtwerke Herne"
       }
     },
     {
@@ -2787,6 +2939,15 @@
       }
     },
     {
+      "displayName": "SWU",
+      "id": "swu-c22d3a",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "SWU"
+      }
+    },
+    {
       "displayName": "SWU Stadtwerke Ulm/Neu-Ulm GmbH",
       "id": "swustadtwerkeulmneuulmgmbh-1299a8",
       "locationSet": {"include": ["de"]},
@@ -2898,13 +3059,14 @@
     },
     {
       "displayName": "TIWAG",
-      "id": "tiwag-c22d3a",
+      "id": "tiwag-3f60da",
       "locationSet": {"include": ["at"]},
-      "matchNames": ["Tiroler Wasserkraft AG"],
+      "matchNames": ["tiroler wasserkraft ag"],
       "tags": {
         "amenity": "charging_station",
         "operator": "TIWAG",
-        "operator:wikidata": "Q1271744"
+        "operator:wikidata": "Q1271744",
+        "operator:wikipedia": "de:TIWAG"
       }
     },
     {
@@ -2925,7 +3087,8 @@
       "tags": {
         "amenity": "charging_station",
         "operator": "Total",
-        "operator:wikidata": "Q154037"
+        "operator:wikidata": "Q154037",
+        "operator:wikipedia": "en:TotalEnergies"
       }
     },
     {
@@ -3088,6 +3251,17 @@
         "operator": "Wien Energie",
         "operator:wikidata": "Q2568787",
         "operator:wikipedia": "de:Wien Energie"
+      }
+    },
+    {
+      "displayName": "WVV",
+      "id": "wvv-1299a8",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "amenity": "charging_station",
+        "operator": "WVV",
+        "operator:wikidata": "Q1291006",
+        "operator:wikipedia": "de:Würzburger Versorgungs- und Verkehrs-GmbH"
       }
     },
     {

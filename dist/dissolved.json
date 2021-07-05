@@ -1,9 +1,9 @@
 {
   "_meta": {
-    "version": "5.0.20210506",
-    "generated": "2021-05-06T13:57:45.606Z",
+    "version": "6.0.20210624",
+    "generated": "2021-06-24T19:08:47.333Z",
     "url": "https://raw.githubusercontent.com/osmlab/name-suggestion-index/main/dist/dissolved.json",
-    "hash": "1bc4819f9d70242df6bd989534ef437b"
+    "hash": "c0658ee47092c064c815ebd9830402f6"
   },
   "dissolved": {
     "21d03b-98e651": [{"date": "2013-01-01T00:00:00.000Z"}],
@@ -102,12 +102,14 @@
     "papyrus-43d507": [{"date": "2020-01-01T00:00:00.000Z"}],
     "phillycarshare-ed8a5d": [{"date": "2014-01-01T00:00:00.000Z"}],
     "poundworld-d988bd": [{"date": "2018-08-10T00:00:00.000Z"}],
-    "praktiker-27405b": [{"date": "2014-01-01T00:00:00.000Z"}],
+    "praktiker-573a37": [{"date": "2014-01-01T00:00:00.000Z"}],
     "shopko-592fe0": [{"date": "2019-06-23T00:00:00.000Z"}],
     "shoppersstop-d45fb2": [{"date": "2019-06-23T00:00:00.000Z"}],
     "siwa-5dea79": [{"date": "2017-01-01T00:00:00.000Z"}],
     "specialtys-4d2ff4": [{"date": "2020-05-19T00:00:00.000Z"}],
     "statravel-9aaf3f": [{"date": "2020-08-21T00:00:00.000Z"}],
+    "tachongcommercialbank-47d9e2": [{"date": "2018-01-01T00:00:00.000Z"}],
+    "tachongcommercialbank-9a6797": [{"date": "2018-01-01T00:00:00.000Z"}],
     "terbourgogne-46b9eb": [{"date": "2017-01-01T00:00:00.000Z", "upgrade": "Q43082620"}],
     "terfranchecomte-46b9eb": [{"date": "2017-01-01T00:00:00.000Z", "upgrade": "Q43082620"}],
     "termidipyrenees-46b9eb": [{"date": "2017-07-01T00:00:00.000Z", "upgrade": "Q37941081"}],

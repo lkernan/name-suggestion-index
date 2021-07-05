@@ -942,12 +942,16 @@
       "displayName": "Servizo Galego de Saúde",
       "id": "servizogalegodesaude-edc4ef",
       "locationSet": {"include": ["es"]},
-      "matchNames": ["sergas - xunta de galicia"],
+      "matchNames": [
+        "sergas - xunta de galicia",
+        "servizo galego de saúde (sergas)"
+      ],
       "tags": {
         "amenity": "clinic",
         "healthcare": "clinic",
         "operator": "Servizo Galego de Saúde",
         "operator:short": "SERGAS",
+        "operator:type": "public",
         "operator:wikidata": "Q3393183",
         "operator:wikipedia": "es:Servicio Gallego de Salud"
       }
@@ -1118,7 +1122,7 @@
     },
     {
       "displayName": "Скандинавия",
-      "id": "e9ace9-55c168",
+      "id": "e9ace9-14b936",
       "locationSet": {"include": ["ru"]},
       "tags": {
         "amenity": "clinic",

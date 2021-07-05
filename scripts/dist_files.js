@@ -1,29 +1,37 @@
-const colors = require('colors/safe');
-const fs = require('fs');
-const glob = require('glob');
-const dissolved = require('../dist/dissolved.json').dissolved;
-const fileTree = require('../lib/file_tree.js');
-const JSON5 = require('json5');
-const packageJSON = require('../package.json');
-const shell = require('shelljs');
-const sortObject = require('../lib/sort_object.js');
-const stringify = require('@aitodotai/json-stringify-pretty-compact');
-const wikidata = require('../dist/wikidata.json').wikidata;
-const withLocale = require('locale-compare')('en-US');
-const writeFileWithMeta = require('../lib/write_file_with_meta.js');
-const xmlbuilder2 = require('xmlbuilder2');
+// External
+import colors from 'colors/safe.js';
+import fs from 'node:fs';
+import glob from 'glob';
+import JSON5 from 'json5';
+import localeCompare from 'locale-compare';
+import LocationConflation from '@ideditor/location-conflation';
+import shell from 'shelljs';
+import stringify from '@aitodotai/json-stringify-pretty-compact';
+import xmlbuilder2 from 'xmlbuilder2';
+
+const withLocale = localeCompare('en-US');
+
+// Internal
+import { fileTree } from '../lib/file_tree.js';
+import { sortObject } from '../lib/sort_object.js';
+import { writeFileWithMeta } from '../lib/write_file_with_meta.js';
+
+// JSON
+import dissolvedJSON from '../dist/dissolved.json';
+import packageJSON from '../package.json';
+import treesJSON from '../config/trees.json';
+import wikidataJSON from '../dist/wikidata.json';
+
+const dissolved = dissolvedJSON.dissolved;
+const trees = treesJSON.trees;
+const wikidata = wikidataJSON.wikidata;
 
 // iD's presets which we will build on
-const sourcePresets = require('@openstreetmap/id-tagging-schema/dist/presets.json');
-
-// metadata about the trees
-const trees = require('../config/trees.json').trees;
+import presetsJSON from '@openstreetmap/id-tagging-schema/dist/presets.json';
 
 // We use LocationConflation for validating and processing the locationSets
-const featureCollection = require('../dist/featureCollection.json');
-const LocationConflation = require('@ideditor/location-conflation');
-const loco = new LocationConflation(featureCollection);
-
+import featureCollectionJSON from '../dist/featureCollection.json';
+const loco = new LocationConflation(featureCollectionJSON);
 
 let _cache = {};
 fileTree.read(_cache, loco);
@@ -201,7 +209,7 @@ function buildIDPresets() {
 
         if (val === 'parcel_pickup;parcel_mail_in') {    // this one is just special
           presetID = `${presetPath}/parcel_pickup_dropoff`;
-          preset = sourcePresets[presetID];
+          preset = presetsJSON[presetID];
           if (preset) return;  // it matched
         }
 
@@ -209,7 +217,7 @@ function buildIDPresets() {
         let vals = val.split(';');
         for (let i = 0; i < vals.length; i++) {
           presetID = presetPath + '/' + vals[i].trim();
-          preset = sourcePresets[presetID];
+          preset = presetsJSON[presetID];
           if (preset) return;   // it matched
         }
       });
@@ -217,7 +225,7 @@ function buildIDPresets() {
       // fallback to `key/value`
       if (!preset) {
         presetID = presetPath;
-        preset = sourcePresets[presetID];
+        preset = presetsJSON[presetID];
       }
 
       // still no match?

@@ -70,6 +70,16 @@
       }
     },
     {
+      "displayName": "Al Dente",
+      "id": "aldente-2fabb0",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Al Dente",
+        "name": "Al Dente"
+      }
+    },
+    {
       "displayName": "Amadeus",
       "id": "amadeus-2fabb0",
       "locationSet": {"include": ["001"]},
@@ -250,6 +260,19 @@
         "brand:wikipedia": "en:Benihana",
         "cuisine": "japanese;teppanyaki;steak",
         "name": "Benihana"
+      }
+    },
+    {
+      "displayName": "Benny & Co.",
+      "id": "bennyandco-e68b16",
+      "locationSet": {"include": ["ca"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Benny & Co.",
+        "brand:wikidata": "Q106963815",
+        "cuisine": "chicken;barbecue;poutine",
+        "name": "Benny & Co.",
+        "takeaway": "yes"
       }
     },
     {
@@ -1522,16 +1545,16 @@
       }
     },
     {
-      "displayName": "Hog's Australia's Steakhouse",
-      "id": "hogsaustraliassteakhouse-3c82e9",
+      "displayName": "Hog's Breath Cafe",
+      "id": "hogsbreathcafe-3c82e9",
       "locationSet": {"include": ["au"]},
       "tags": {
         "amenity": "restaurant",
-        "brand": "Hog's Australia's Steakhouse",
+        "brand": "Hog's Breath Cafe",
         "brand:wikidata": "Q5876920",
         "brand:wikipedia": "en:Hog's Breath Cafe",
         "cuisine": "steak_house",
-        "name": "Hog's Australia's Steakhouse"
+        "name": "Hog's Breath Cafe"
       }
     },
     {
@@ -2666,6 +2689,21 @@
       }
     },
     {
+      "displayName": "Piemininster",
+      "id": "pieminister-9b5453",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Pieminister",
+        "brand:wikidata": "Q16967078",
+        "brand:wikipedia": "en:Pieminister",
+        "cuisine": "pie",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Pieminister"
+      }
+    },
+    {
       "displayName": "Pieology Pizzeria",
       "id": "pieologypizzeria-96af40",
       "locationSet": {"include": ["us"]},
@@ -2909,7 +2947,7 @@
         "amenity": "restaurant",
         "brand": "Rocky Rococo",
         "brand:wikidata": "Q7356002",
-        "brand:wikipedia": "en:Rocky Rococo (pizza chain)",
+        "brand:wikipedia": "en:Rocky Rococo",
         "cuisine": "pizza",
         "name": "Rocky Rococo"
       }
@@ -3570,6 +3608,16 @@
         "brand:wikipedia": "en:Uno Pizzeria & Grill",
         "cuisine": "pizza",
         "name": "Unos"
+      }
+    },
+    {
+      "displayName": "Valentino",
+      "id": "valentino-2fabb0",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "Valentino",
+        "name": "Valentino"
       }
     },
     {
@@ -4446,6 +4494,21 @@
       }
     },
     {
+      "displayName": "比格披萨",
+      "locationSet": {"include": ["cn"]},
+      "matchNames":["比格自助披萨"],
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "比格披萨",
+        "brand:en": "Bigpizza",
+        "brand:zh": "比格披萨",
+        "cuisine": "pizza",
+        "name": "比格披萨",
+        "name:en": "Bigpizza",
+        "name:zh": "比格披萨"
+      }
+    },
+    {
       "displayName": "丸亀製麺",
       "id": "marugameseimen-d30421",
       "locationSet": {"include": ["jp", "tw"]},
@@ -4777,6 +4840,16 @@
         "name": "木曽路",
         "name:en": "Kisoji",
         "name:ja": "木曽路"
+      }
+    },
+    {
+      "displayName": "来来亭",
+      "id": "944156-2fabb0",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "restaurant",
+        "brand": "来来亭",
+        "name": "来来亭"
       }
     },
     {

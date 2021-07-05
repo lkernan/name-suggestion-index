@@ -24,6 +24,20 @@
   },
   "items": [
     {
+      "displayName": "Acıbadem",
+      "id": "acibadem-007b1e",
+      "locationSet": {
+        "include": ["bg", "de", "mk", "nl", "tr"]
+      },
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "operator": "Acıbadem",
+        "operator:wikidata": "Q19610384",
+        "operator:wikipedia": "en:Acıbadem Healthcare Group"
+      }
+    },
+    {
       "displayName": "Advent Health",
       "id": "adventhealth-888e5a",
       "locationSet": {"include": ["us"]},
@@ -374,6 +388,21 @@
       }
     },
     {
+      "displayName": "Columbia Asia Hospital",
+      "id": "columbiaasiahospital-fcf381",
+      "locationSet": {
+        "include": ["id", "my", "vn"]
+      },
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Columbia Asia Hospital",
+        "operator": "Columbia Asia",
+        "operator:wikidata": "Q5149612",
+        "operator:wikipedia": "en:Columbia Asia"
+      }
+    },
+    {
       "displayName": "Comunidad de Madrid",
       "id": "comunidaddemadrid-34fe48",
       "locationSet": {"include": ["es"]},
@@ -576,6 +605,16 @@
         "operator": "Gobierno Regional",
         "operator:wikidata": "Q3824815",
         "operator:wikipedia": "en:Regional Governments of Peru"
+      }
+    },
+    {
+      "displayName": "Government of Kerala",
+      "id": "governmentofkerala-fbd4f5",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "operator": "Government of Kerala"
       }
     },
     {
@@ -874,6 +913,18 @@
       }
     },
     {
+      "displayName": "Medical Park (Türkiye)",
+      "id": "medicalpark-4e781b",
+      "locationSet": {"include": ["tr"]},
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "operator": "Medical Park",
+        "operator:wikidata": "Q6073312",
+        "operator:wikipedia": "tr:Medical Park"
+      }
+    },
+    {
       "displayName": "Mediclin",
       "id": "mediclin-8bb61e",
       "locationSet": {"include": ["de"]},
@@ -1111,7 +1162,7 @@
         "operator": "Ministerio de Salud",
         "operator:short": "MSPAS",
         "operator:wikidata": "Q6017425",
-        "operator:wikipedia": "es:Ministerio de Salud Pública y Asistencia Social"
+        "operator:wikipedia": "es:Ministerio de Salud Pública y Asistencia Social (Guatemala)"
       }
     },
     {
@@ -1361,6 +1412,16 @@
         "healthcare": "hospital",
         "operator": "National Primary Health Care Development Agency",
         "operator:short": "NPHCDA"
+      }
+    },
+    {
+      "displayName": "Netcare",
+      "id": "netcare-fbd4f5",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "operator": "Netcare"
       }
     },
     {
@@ -1683,6 +1744,16 @@
         "amenity": "hospital",
         "healthcare": "hospital",
         "operator": "SSC"
+      }
+    },
+    {
+      "displayName": "SSM Health",
+      "id": "ssmhealth-fbd4f5",
+      "locationSet": {"include": ["001"]},
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "operator": "SSM Health"
       }
     },
     {

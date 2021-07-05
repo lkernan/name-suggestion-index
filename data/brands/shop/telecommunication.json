@@ -124,6 +124,18 @@
       }
     },
     {
+      "displayName": "PŸUR",
+      "id": "pyur-c071e4",
+      "locationSet": {"include": ["de"]},
+      "tags": {
+        "brand": "PŸUR",
+        "brand:wikidata": "Q41680846",
+        "brand:wikipedia": "de:Pÿur",
+        "name": "PYUR",
+        "shop": "telecommunication"
+      }
+    },
+    {
       "displayName": "Spectrum",
       "id": "spectrum-3a9c60",
       "locationSet": {"include": ["us"]},

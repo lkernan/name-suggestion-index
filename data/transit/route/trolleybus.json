@@ -83,6 +83,18 @@
       }
     },
     {
+      "displayName": "Kauno m. savivaldybė",
+      "id": "kaunomsavivaldybe-b0cd15",
+      "locationSet": {"include": ["lt"]},
+      "tags": {
+        "network": "Kauno m. savivaldybė",
+        "operator": "Kauno autobusai",
+        "operator:wikidata": "Q16303091",
+        "operator:wikipedia": "lt:Kauno autobusai",
+        "route": "trolleybus"
+      }
+    },
+    {
       "displayName": "King County Metro",
       "id": "kingcountymetro-62d74d",
       "locationSet": {"include": ["us"]},
@@ -120,8 +132,10 @@
     },
     {
       "displayName": "MBTA",
-      "id": "mbta-62d74d",
-      "locationSet": {"include": ["us"]},
+      "id": "mbta-73386d",
+      "locationSet": {
+        "include": [[-71, 42, 100]]
+      },
       "matchNames": [
         "massachusetts bay transportation authority"
       ],
@@ -246,6 +260,20 @@
         "operator": "TL",
         "operator:wikidata": "Q675718",
         "operator:wikipedia": "de:Transports publics de la région lausannoise",
+        "route": "trolleybus"
+      }
+    },
+    {
+      "displayName": "Muni",
+      "id": "muni-62d74d",
+      "locationSet": {"include": ["us"]},
+      "tags": {
+        "network": "Muni",
+        "network:wikidata": "Q1140138",
+        "network:wikipedia": "en:San Francisco Municipal Railway",
+        "operator": "San Francisco Municipal Railway",
+        "operator:wikidata": "Q7414072",
+        "operator:wikipedia": "en:San Francisco Municipal Transportation Agency",
         "route": "trolleybus"
       }
     },
@@ -542,6 +570,15 @@
       }
     },
     {
+      "displayName": "Брянский троллейбус",
+      "id": "d93e53-ea4a14",
+      "locationSet": {"include": ["ru"]},
+      "tags": {
+        "network": "Брянский троллейбус",
+        "route": "trolleybus"
+      }
+    },
+    {
       "displayName": "Вінницька мережа громадського транспорту",
       "id": "f7bbd8-2bb881",
       "locationSet": {"include": ["ua"]},
@@ -625,7 +662,7 @@
     },
     {
       "displayName": "济南公交——济南公交公司",
-      "id": "f9ccee-97f884",
+      "id": "61a138-97f884",
       "locationSet": {"include": ["001"]},
       "tags": {
         "network": "济南公交——济南公交公司",
